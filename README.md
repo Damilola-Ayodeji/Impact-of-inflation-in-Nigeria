@@ -2,7 +2,7 @@
 
 This is my entry for the Data Analytics Competition by Cortouch Media, where I analysed consumer price index dataset spanning from Janauary 1995 to January 2024 to generate data-driven insights.
 
-You can download or view the PowerPoint presentation [here](https://docs.google.com/presentation/d/11ck4nPiAFTFXtXPGdvjrf3yoKewurRBh/edit?usp=drivesdk&ouid=104920137115823031810&rtpof=true&sd=true)
+You can download or view the presentation [here](https://drive.google.com/file/d/100lpGpoiyOTv4p8LB2CvUucB7DMDFnnJ/view?usp=drivesdk)
 
 You can download the .pbix file [here](https://drive.google.com/file/d/1a273qeboNwgvUXLDu5aya49YOgABVV0w/view?usp=drivesdk)
 
