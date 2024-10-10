@@ -12,6 +12,8 @@ You can interact with the PowerBI report [here](https://app.powerbi.com/view?r=e
 
 ## The dataset
 
+![dataset](Assets/dataset.PNG "dataset")
+
 
 
 
