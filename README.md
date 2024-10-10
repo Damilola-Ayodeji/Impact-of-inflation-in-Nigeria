@@ -66,8 +66,8 @@ You can read the details of the report [here](https://drive.google.com/file/d/18
 
 # Connect with me
 
-- [email](dolanrewaju231194@gmail.com)
-- [LinkedIn](https://app.powerbi.com/view?r=eyJrIjoiZWY0MTNiNjQtN2NkMS00YTY2LTk5MTktZjQ2MTAzNDQxOWZiIiwidCI6IjA4ZTY2OWIxLTQxOTktNDM4YS1hNjMxLTFiYWI3NWRhN2Y0MiJ9)
+- [email](mailto:dolanrewaju231194@gmail.com)
+- [LinkedIn](http://www.linkedin.com/in/damilola-olanrewaju-0478371a3)
 
 
 
