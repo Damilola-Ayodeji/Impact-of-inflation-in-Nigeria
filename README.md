@@ -64,7 +64,7 @@ You can read the details of the report [here](https://drive.google.com/file/d/18
 - On a yearly basis, average inflation for all items was 12.63%, 11.11% for core items, and food price went up by 13.05%. This is currently at 29.90%, 23.59%, and 35.41%.
 - The 12-month average inflation for all items was 12.38%, 10.84% for core items, and 14.05% for food. This is currently at 25.35%, 21.15%, and 28.91% respectively.
 
-# Connect with me
+## Connect with me
 
 - [email](mailto:dolanrewaju231194@gmail.com)
 - [LinkedIn](http://www.linkedin.com/in/damilola-olanrewaju-0478371a3)
